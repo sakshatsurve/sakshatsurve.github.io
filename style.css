@@ -400,7 +400,7 @@ a img.aligncenter {
 	color: #ffffff;
 	font-weight: 700;
 	font-size: 62px;
-	text-transform: capitalize;
+/* 	text-transform: capitalize; */
 }
 .heading p{
 	font-size: 18px;
@@ -408,7 +408,7 @@ a img.aligncenter {
 }
 
 .heading h3{
-	color: ffffff;
+	color: #ffffff;
 }
 
 .cd-words-wrapper {
